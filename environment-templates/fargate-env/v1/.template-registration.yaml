@@ -1,0 +1,5 @@
+compatible_environments:
+  - my-env-template:1
+  - my-env-template:2
+  - another-env-template:1
+  - another-env-template:3
